@@ -8,4 +8,6 @@ elif bmi <= (24.9):
 elif bmi <= (34.9):
     print("you are over weight") 
 else:
-    print("obease")       
+    print("obease") 
+
+      
