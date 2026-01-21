@@ -6,5 +6,5 @@ else:
 x=78
 y=78
 print(x is y)
-sentence="my name is mueed"
-print("muawin" in sentence)
+sentence="my name is mueed                                                                                       "
+print("muawin in sentence")
