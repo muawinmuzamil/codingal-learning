@@ -1,8 +1,6 @@
-age = int(input("Enter your age: "))
+age = int(input("enter your age"))
 
 if age <20:
-    print("valid age to enroll")
-
-
+   print("valid to enroll")
 else:
-    print("You are a minor")
+   print("invalid to enroll ")
