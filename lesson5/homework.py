@@ -1,8 +1,8 @@
-num = int(input("Enter a number: "))
+temp = int(input("Enter a number: "))
 
-if num > 0:
-    print("The number is Positive")
-elif num < 0:
-    print("The number is Negative")
+if temp < 10:
+    print("wear woolen clothes")
+elif  temp > 25:
+    print("wear cotton clothes")
 else:
-    print("The number is Zero")
+    print("wear semi temprature clothes")
