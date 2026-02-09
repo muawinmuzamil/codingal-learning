@@ -9,4 +9,4 @@ while temp>0:
 if num==sum:
     print("armstrong number")
 else:
-    print("not armstrong number")       
+    print("not arm strong number")   
