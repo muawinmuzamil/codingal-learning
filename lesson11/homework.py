@@ -1,14 +1,7 @@
-
-
 num = int(input("Enter a number: "))
-
-
 if num < 0:
     num = -num
-
 count = 0
-
-
 if num == 0:
     count = 1
 else:
