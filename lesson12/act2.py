@@ -7,6 +7,6 @@ for num in range (lower,upper+1):
             if (num % i)==0:
                 break
         else:
-            print(num)
+          print(num)
 
                   
