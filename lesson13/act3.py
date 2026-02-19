@@ -28,3 +28,4 @@ for i in range(1, halfDiamRow): #loop for rows
   #incerementing number at each column
     num = num+1
   print()
+  
