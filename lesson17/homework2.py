@@ -13,4 +13,3 @@ def shutdown_system(choice):
 user_choice = input("Do you want to shutdown the computer? (yes/no): ")
 
 shutdown_system(user_choice)
-shutdown_system(user_choice)
